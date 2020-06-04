@@ -14,3 +14,8 @@ Output [0, 2]
 Target = 12  
 Input = [2, 4, 3, 1, 9]  
 Output: [2, 4]
+
+---
+
+To install: `yarn install`  
+To test: `yarn test`
